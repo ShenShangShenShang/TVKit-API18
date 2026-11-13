@@ -1,0 +1,3 @@
+*.apk
+signing.keystore
+app/assets/icons/*.png
